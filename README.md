@@ -1,5 +1,5 @@
-How to use these hacks
-download the file
+How to use these hacks..
+DOWNLOAD THE RAW FILE NOT ANYTHING ELSE
 you will see something saying "Bookmarks.html"
 Then type   ctr+shift+o
 Then click top right three dots
